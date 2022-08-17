@@ -11,7 +11,7 @@ const Banner = () => {
         <small>DJANGO REACTJS NEXTJS</small>
       </div>
       <div className="image">
-        <img src="" alt="IMAGE" />
+        <img src="" alt="" />
       </div>
     </BannerStyle>
   );
